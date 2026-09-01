@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Enterprise",
+  "description": "Enterprise-grade 2020s video platform with Discovery, Adaptive Playback, Creator Studio, Ingest Pipeline, Shorts, Live Streams, Monetization, Moderation & Rights Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
